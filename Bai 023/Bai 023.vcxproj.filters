@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\BTVN\Bai 23\Bai23.cpp">
+    <ClCompile Include="Bai23.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
